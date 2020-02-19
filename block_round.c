@@ -59,4 +59,5 @@ int main(int argc, char *argv[]) {
         //printf("\tExecution time of: %f for process of rank %d\n", end-start, rank);
         MPI_Finalize();
         return 0;
+}
 
