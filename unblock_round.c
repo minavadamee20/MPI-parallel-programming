@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "mpi.h"
-
+//MINA TREVIZO + VIRAAT UDAR
 /* Write either a single program or two separate C/C++ programs that use(s) MPI blocking and
 non-blocking commands MPI_Send, MPI_Rcvd, MPI_Isend and MPI_Ircvd to exchange one double $
 between process with rank 0 and process with rank 1. Calculate the execution time using
